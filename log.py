@@ -3,7 +3,7 @@ from pynput import keyboard
 
 import logging
 
-print("\n\n\n\n\n\n\n\n")
+print("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n")
 
 logging.basicConfig(filename="mouse_log.txt", level=logging.DEBUG, format='')
 
