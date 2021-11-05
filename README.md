@@ -30,3 +30,8 @@ cd Python-Keylogger
 ```
 cat mouse_log.txt
 ```
+# Clear File
+```
+cat > mouse_log.txt
+```
+then click enter and terminate the session
