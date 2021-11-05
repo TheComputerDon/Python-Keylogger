@@ -34,4 +34,4 @@ cat mouse_log.txt
 ```
 cat > mouse_log.txt
 ```
-then click enter and terminate the session
+then click ENTER and terminate the session
