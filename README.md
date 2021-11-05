@@ -10,7 +10,7 @@ git clone https://github.com/TheComputerDon/Python-Keylogger.git
 cd Python-Keylogger
 ```
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 ```
 python3 log.py
