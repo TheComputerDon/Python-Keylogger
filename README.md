@@ -20,3 +20,13 @@ python3 log.py
 All contents will be store into a file called (mouse_log.txt)
 
 Do NOT rename this folder
+
+# Veiw File
+
+
+```
+cd Python-Keylogger
+```
+```
+cat mouse_log.txt
+```
