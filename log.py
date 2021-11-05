@@ -1,3 +1,8 @@
+from pynput.mouse import Listener
+from pynput import keyboard
+
+import logging
+
 logging.basicConfig(filename="mouse_log.txt", level=logging.DEBUG, format='')
 
 def on_move(x, y):
