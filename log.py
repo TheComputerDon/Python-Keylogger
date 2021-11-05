@@ -3,6 +3,8 @@ from pynput import keyboard
 
 import logging
 
+print("\n\n\n\n\n\n\n\n")
+
 logging.basicConfig(filename="mouse_log.txt", level=logging.DEBUG, format='')
 
 def on_move(x, y):
