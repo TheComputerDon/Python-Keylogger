@@ -35,3 +35,6 @@ cat mouse_log.txt
 cat > mouse_log.txt
 ```
 then click ENTER and terminate the session
+
+# Notes
+Does not work when in Root Password Request Window
